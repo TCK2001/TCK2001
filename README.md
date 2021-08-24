@@ -5,7 +5,7 @@
 - :purple_heart: I’m currently learning python!!! and go langunage! They are all new languages to me.
 - 📫 How to reach me ...  Umm I don' know HAHAHAHA all ways are possible.
 - Languages I've Learned Before: C(:blush:),C++(:kissing_closed_eyes:),Python(:flushed:),GO<-(ing).
-- :star: I can speak 1.Korean 2.chinese 3.English :star:
+- :star: I can speak 1.Korean 2.Chinese 3.English :star:
 - 안녕하세요! 컴퓨터 공학과 다니고있는 2학년->3학년 대학생입니다.
 - 아직 모르는게 많지만 그래도 매일 매일 하나씩 파일 올려서 기록할려고 합니다. 잘 부탁드립니다.
 - 大家你好 我是今年二升三的資工系，歡迎大家來看看我的程式碼.
