@@ -13,6 +13,7 @@
 - ＴＨＡＮＫＳ!
 - 감사합니다!
 - 謝謝!
+- Summer vacation ~2021/09/23 (learning python and Go language) ~ing
 <!---
 TCK2001/TCK2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
