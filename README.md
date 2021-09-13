@@ -3,7 +3,6 @@
 - :rabbit: Many people say, I look like a rabbit.
 - 👀 I’m interested about computer,Typically computer language!
 - :purple_heart: I’m currently learning python!!! and go langunage! They are all new languages to me.
-- 📫 How to reach me ...  (:flushed:)(:flushed:)Email: ekatmdrkd7227@gmail.com(:flushed:)(:flushed:)
 - Languages I've Learned Before: C(:blush:),C++(:kissing_closed_eyes:),Python(:flushed:),GO<-(If i have a time).
 - :star: I can speak 1.Korean 2.Chinese 3.English :star:
 - 안녕하세요! 컴퓨터 공학과 다니고있는 2학년->3학년 대학생입니다.
@@ -13,8 +12,13 @@
 - ＴＨＡＮＫＳ!
 - 감사합니다!
 - 謝謝!
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCK2001&show_icons=true&theme=highcontrast)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TCK2001&langs_count=8)
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ekatmdrkd7227@gmail.com)](mailto:ekatmdrkd7227@gmail.com)
+   <image src="https://img.shields.io/github/followers/TCK2001?style=social">
+   
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTCK2001&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-- <a href="https://www.instagram.com/chengkang_0519/" target="_blank"><img src="https://img.shields.io/badge/Instagramstyle=flat&logo=#E4405F&logoColor=DC143C"/></a>
+  <
 - Summer vacation ~2021/09/23 (learning python) ~ing
 <!---
 TCK2001/TCK2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
