@@ -20,7 +20,7 @@
 ## 🔠After Learning :
 + C++ language :star:
 + C language :star:
-+ python :star:
++ Python :star:
 + SQL (~ing) in summmer vacation :star:
 + Go language (~ing) in summer vacation :star:
 ## 💻Language :
