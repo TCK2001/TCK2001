@@ -16,7 +16,7 @@
 + :rabbit: Many people say, I looks like a rabbit.
 + 👀 I’m interested about computer,Typically computer language!
 ## 🥇Major  :
-+ National Sun Yet-Sen University - Computer Science Engineering : 2 degree-> 3 degree in university
++ National Sun Yet-Sen University - Computer Science Engineering : 2nd grade to 3rd grade in university
 ## 🔠After Learning :
 + C++ language :star:
 + C language :star:
