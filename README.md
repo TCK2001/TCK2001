@@ -12,11 +12,12 @@
    <image src="https://img.shields.io/github/followers/TCK2001?style=social">
 ---------
 ## 🍀About me : 
-+ 👋 Hi, I’m TCK  (Summer vacation ~2021/09/23) 😢
++ 👋 Hi, I’m TCK  (Summer vacation ~2021/09/23) End.. 😢
++ junior start....😢
 + :rabbit: Many people say, I looks like a rabbit.
 + 👀 I’m interested about computer,Typically computer language!
 ## 🥇Major  :
-+ National Sun Yet-Sen University - Computer Science Engineering : 2nd grade to 3rd grade in university
++ National Sun Yet-Sen University - Computer Science Engineering : sophomore -> junior in university
 ## 🔠After Learning :
 + C++ language :star:
 + C language :star:
