@@ -1,7 +1,12 @@
+pip install -r requirements.txt
+python manage.py runserver
+
 ## 💗Welcome to My Profile💗 
 ---------
 ## 🎁Today I Did  :
-[![readmeplants](https://readmeplants.com/get?name=TCK2001&planet=purpleMoon&plant=blossomTree&nameTag=blackNameTag&ground=hill&background=black)](https://github.com/devxb/readmeplants)
+[![Solved.ac
+TCK2001](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 <!---
 [![commit combo](http://commitcombo.com/get?user=TCK2001&theme=Sunset-mini)](https://github.com/devxb/commitcombo)
 --->
