@@ -1,12 +1,7 @@
-pip install -r requirements.txt
-python manage.py runserver
-
 ## 💗Welcome to My Profile💗 
 ---------
-## 🎁Today I Did  :
-[![Solved.ac
-TCK2001](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
-
+## 🎁Record  :
+![trophy](https://github-profile-trophy.vercel.app/?username=TCK2001)
 <!---
 [![commit combo](http://commitcombo.com/get?user=TCK2001&theme=Sunset-mini)](https://github.com/devxb/commitcombo)
 --->
