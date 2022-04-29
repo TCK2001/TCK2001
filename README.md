@@ -22,7 +22,7 @@
 + C++ language :star:
 + C language :star:
 + Python :star:
-+ Start to learn about AI
++ Start to learn about AI :star:
 ## 💻Language :
 +  1.Korean :star:
 +  2.Chinese :star:
