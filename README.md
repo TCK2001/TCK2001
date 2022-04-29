@@ -12,8 +12,8 @@
    <image src="https://img.shields.io/github/followers/TCK2001?style=social">
 ---------
 ## 🍀About me : 
-+ 👋 Hi, I’m TCK  (Summer vacation ~2021/09/23) End.. 😢
-+ 👨‍🎓 junior start....😢
++ 👋 Hi, I’m TCK 
++ 👨‍🎓 junior start
 + :rabbit: Many people say, I looks like a rabbit.
 + 👀 I’m interested about computer,Typically computer language!
 ## 🥇Major  :
@@ -22,8 +22,7 @@
 + C++ language :star:
 + C language :star:
 + Python :star:
-+ SQL (~ing) in summmer vacation :star:
-+ Go language (~ing) in summer vacation :star:
++ Start to learn about AI
 ## 💻Language :
 +  1.Korean :star:
 +  2.Chinese :star:
