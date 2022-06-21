@@ -17,7 +17,7 @@
 + :rabbit: Many people say, I looks like a rabbit.
 + 👀 I’m interested about computer,Typically computer language!
 ## 🥇Major  :
-+ National Sun Yet-Sen University - Computer Science Engineering : sophomore -> junior in university
++ National Sun Yet-Sen University - Computer Science Engineering 🙆 -> junior in university
 ## 🔠After Learning :
 + C++ language :star:
 + C language :star:
