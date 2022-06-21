@@ -29,6 +29,8 @@
 +  3.English :star:
 ## 🎓Goal  :
 + Except when there is somthing problems , learn and upload more than one code every day.
+## 🖥️ My new website : 
++ https://medium.com/@h_e_l_l_o_c_k 
 --------
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCK2001&show_icons=true&theme=highcontrast)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TCK2001&langs_count=8)
