@@ -12,7 +12,7 @@
    <image src="https://img.shields.io/github/followers/TCK2001?style=social">
 ---------
 ## 🍀About me : 
-+ 👋 Hi, I’m Cheng Kang 
++ 👋 Hi, I’m Cheng Kang 丞岡
 + 👨‍🎓 junior start
 + :rabbit: Many people say, I looks like a rabbit.
 + 👀 I’m interested about computer,Typically computer language!
