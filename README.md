@@ -19,9 +19,9 @@
 ## 🥇Major  :
 + National Sun Yet-Sen University - Computer Science Engineering 🙆 -> junior in university
 ## 🔠After Learning :
-+ C++ language :star:
-+ C language :star:
 + Python :star:
++ C language :star:
++ C++ language :star:
 + Start to learn about AI :star:
 ## 💻Language :
 +  1.Korean :star:
