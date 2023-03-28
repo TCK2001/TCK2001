@@ -28,7 +28,7 @@
 +  2.Chinese :star:
 +  3.English :star:
 ## 🎓Goal  :
-+ Except when there is somthing problems , learn and upload more than one code every day.
++ Don't lose the sense of coding.
 ## 🖥️ My new website : 
 + [https://medium.com/@hichengkang](https://medium.com/@hichengkang)
 --------
