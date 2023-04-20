@@ -19,9 +19,8 @@
 + National Cheng king University - Computer Science Information Engineering (Master) ~ing 🖥️
 ## 🔠After Learning :
 + Python :star:
-+ C language :star:
 + C++ language :star:
-+ Start to learn about AI :star:
++ C language :star:
 ## 💻Language :
 +  1.Korean :star:
 +  2.Chinese :star:
