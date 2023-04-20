@@ -12,14 +12,11 @@
    <image src="https://img.shields.io/github/followers/TCK2001?style=social">
 ---------
 ## 🍀About me : 
-+ 👋 Hi, I’m Cheng Kang Tan 譚丞岡 From Korea
-+ 👨‍🎓 NSYSU_CSE (Bachelor) 
-+ 🧑‍🎓NCKU_CSIE (Master) 
-<The Tortoise and the Hare> 
-I'm tortoise 🐢 😆    
-+ 👀 I’m interested about computer,Typically computer language!
++ 👋 Hi, I’m Cheng Kang Tan , 譚丞岡 From Korea
++ In <The Tortoise and the Hare> story I'm tortoise now... 🐢     
 ## 🥇Major  :
-+ National Sun Yet-Sen University - Computer Science Engineering 🙆 -> junior in university
++ National Sun Yet-Sen University - Computer Science Engineering  (Bachelor) 👨‍🎓 Graduate on June 😃!
++ National Cheng king University - Computer Science Information Engineering (Master) ~ing 🖥️
 ## 🔠After Learning :
 + Python :star:
 + C language :star:
