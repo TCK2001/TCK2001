@@ -4,7 +4,7 @@
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/chengkang2001)](https://www.facebook.com/chengkang2001)
    <image src="https://img.shields.io/github/followers/TCK2001?style=social">
 ## 🍀About me : 
-+ 👋 Hi, I’m Cheng Kang Tan , 譚丞岡 From Korea
++ 👋 Hi, I’m Cheng Kang Tan , 譚丞岡 From 🇰🇷 , Now in 🇹🇼
 + In <The Tortoise and the Hare> story I'm tortoise now... 🐢     
 ## 🥇Major  :
 + National Sun Yet-Sen University - Computer Science Engineering  (Bachelor) 👨‍🎓 Graduate on June 😃!
