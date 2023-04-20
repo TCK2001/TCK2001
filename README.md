@@ -12,9 +12,11 @@
    <image src="https://img.shields.io/github/followers/TCK2001?style=social">
 ---------
 ## 🍀About me : 
-+ 👋 Hi, I’m Cheng Kang Tan 譚丞岡
-+ 👨‍🎓 junior start
-+ :rabbit: Many people say, I looks like a rabbit.
++ 👋 Hi, I’m Cheng Kang Tan 譚丞岡 From Korea
++ 👨‍🎓 NSYSU_CSE (Bachelor) 
++ 🧑‍🎓NCKU_CSIE (Master) 
+<The Tortoise and the Hare> 
+I'm tortoise 🐢 😆    
 + 👀 I’m interested about computer,Typically computer language!
 ## 🥇Major  :
 + National Sun Yet-Sen University - Computer Science Engineering 🙆 -> junior in university
