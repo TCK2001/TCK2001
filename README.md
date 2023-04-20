@@ -1,16 +1,8 @@
 ## 💗Welcome to My Profile💗 
----------
-## 🎁Record  :
-![trophy](https://github-profile-trophy.vercel.app/?username=TCK2001)
-<!---
-[![commit combo](http://commitcombo.com/get?user=TCK2001&theme=Sunset-mini)](https://github.com/devxb/commitcombo)
---->
----------
 ## 🌟My Contact : 
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ekatmdrkd7227@gmail.com)](mailto:ekatmdrkd7227@gmail.com)
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/chengkang2001)](https://www.facebook.com/chengkang2001)
    <image src="https://img.shields.io/github/followers/TCK2001?style=social">
----------
 ## 🍀About me : 
 + 👋 Hi, I’m Cheng Kang Tan , 譚丞岡 From Korea
 + In <The Tortoise and the Hare> story I'm tortoise now... 🐢     
@@ -29,6 +21,12 @@
 + Don't lose the sense of coding.
 ## 🖥️ My new website : 
 + [https://medium.com/@hichengkang](https://medium.com/@hichengkang)
+--------
+## 🎁Record  :
+![trophy](https://github-profile-trophy.vercel.app/?username=TCK2001)
+<!---
+[![commit combo](http://commitcombo.com/get?user=TCK2001&theme=Sunset-mini)](https://github.com/devxb/commitcombo)
+--->
 --------
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCK2001&show_icons=true&theme=highcontrast)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TCK2001&langs_count=8)
