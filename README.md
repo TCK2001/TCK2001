@@ -8,7 +8,7 @@
 + In <The Tortoise and the Hare> story I'm tortoise now... 🐢     
 ## 🥇Major  :
 + National Sun Yet-Sen University - Computer Science Engineering  (Bachelor) 👨‍🎓 Graduate on June 😃!
-+ National Cheng king University - Computer Science Information Engineering (Master) ~ing 🖥️
++ National Cheng kung University - Computer Science Information Engineering (Master) ~ing 🖥️
 ## 🔠After Learning :
 + Python :star:
 + C++ language :star:
