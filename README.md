@@ -7,7 +7,7 @@
 + 👋 Hi, I’m Cheng Kang Tan , 譚丞岡 Born in Korea 🇰🇷 
 + In <The Tortoise and the Hare> story I'm tortoise now... 🐢     
 ## 🥇Major  :
-+ National Sun Yet-Sen University - Computer Science Engineering  (Bachelor) 👨‍🎓 Graduate on June 😃!
++ National Sun Yet-Sen University - Computer Science Engineering  (Bachelor) 👨‍🎓 Graduated on June 😃!
 + National Cheng kung University - Computer Science Information Engineering (Master) ~ing 🖥️
 ## 🔠After Learning :
 + Python :star:
