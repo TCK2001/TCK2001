@@ -1,7 +1,7 @@
 ## 💗Welcome to My Profile💗 
 ## 🌟My Contact : 
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ekatmdrkd7227@gmail.com)](mailto:ekatmdrkd7227@gmail.com)
-  [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/chengkang2001)](https://www.facebook.com/chengkang2001)
+  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/chengkang2001)](https://www.facebook.com/chengkang2001)
   [![Linkdin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chengkang-tan-aa9352243)](https://www.linkedin.com/in/chengkang-tan-aa9352243)
   
    <image src="https://img.shields.io/github/followers/TCK2001?style=social">
