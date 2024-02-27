@@ -11,10 +11,10 @@
 ## 🥇Major  :
 + National Sun Yet-Sen University - Computer Science Engineering  (Bachelor) 👨‍🎓 Graduated on June 😃!
 + National Cheng kung University - Computer Science Information Engineering (Master) ~ing 🖥️
-## 🔠After Learning :
-+ Python :star:
-+ C++ language :star:
-+ C language :star:
+## 🔠Programming Language :
++ [Python :star:](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
++ [C++ language :star:](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
++ [C language :star:](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ## 💻Language :
 +  1.Korean :star:
 +  2.Chinese :star:
