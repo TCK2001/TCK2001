@@ -1,10 +1,10 @@
 ## 💗Welcome to My Profile💗 
 ## 🌟My Contact : 
-- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ekatmdrkd7227@gmail.com)](mailto:ekatmdrkd7227@gmail.com)
-  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/chengkang2001)](https://www.facebook.com/chengkang2001)
-  [![Linkdin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chengkang-tan-aa9352243)](https://www.linkedin.com/in/chengkang-tan-aa9352243)
-  [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@hichengkang)](https://medium.com/@hichengkang)
-   <image src="https://img.shields.io/github/followers/TCK2001?style=social">
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ekatmdrkd7227@gmail.com)](mailto:ekatmdrkd7227@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/chengkang2001)](https://www.facebook.com/chengkang2001)
+[![Linkdin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/chengkang-tan-aa9352243)](https://www.linkedin.com/in/chengkang-tan-aa9352243)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@hichengkang)](https://medium.com/@hichengkang)
+<image src="https://img.shields.io/github/followers/TCK2001?style=social">
 ## 🍀About me : 
 + 👋 Hi, I’m Cheng Kang Tan , 譚丞岡 Born in Korea 🇰🇷 
 + In <The Tortoise and the Hare> story I'm tortoise now... 🐢     
