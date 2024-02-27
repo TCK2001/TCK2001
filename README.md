@@ -2,6 +2,8 @@
 ## 🌟My Contact : 
 - [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ekatmdrkd7227@gmail.com)](mailto:ekatmdrkd7227@gmail.com)
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/chengkang2001)](https://www.facebook.com/chengkang2001)
+  [![Linkdin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=www.linkedin.com/in/chengkang-tan-aa9352243)](www.linkedin.com/in/chengkang-tan-aa9352243)
+  
    <image src="https://img.shields.io/github/followers/TCK2001?style=social">
 ## 🍀About me : 
 + 👋 Hi, I’m Cheng Kang Tan , 譚丞岡 Born in Korea 🇰🇷 
