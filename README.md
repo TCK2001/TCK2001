@@ -32,8 +32,9 @@
 [![commit combo](http://commitcombo.com/get?user=TCK2001&theme=Sunset-mini)](https://github.com/devxb/commitcombo)
 --->
 --------
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCK2001&show_icons=true&theme=highcontrast)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TCK2001&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCK2001&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TCK2001&langs_count=6&layout=donut&hide_progress=true&hide=javascript,sed,aseembly,Jupyter%20Notebook)
+
 --------
 ## 😃Today guests 
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTCK2001&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
