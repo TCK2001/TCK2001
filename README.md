@@ -1,4 +1,6 @@
 ## 💗Welcome to My Profile💗 
+<img src="https://widgetbite.com/banner?title=TCK&subtitle=Programming%20Lover&backgroundpalette=water&fontpalette=water&titletransform=scale&subtitletransform=rotate" width=100% height=100%/>
+
 ## 🌟My Contact : 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ekatmdrkd7227@gmail.com)](mailto:ekatmdrkd7227@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/chengkang2001)](https://www.facebook.com/chengkang2001)
@@ -43,8 +45,11 @@
  <img alt="Visitor Stats" 
    src="https://widgetbite.com/stats/TCK2001"/>  
 </div>
+
+<!---
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTCK2001&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
+ --->
+
 <!---
 TCK2001/TCK2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
