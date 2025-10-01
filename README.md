@@ -9,8 +9,10 @@
 + 👋 Hi, I’m Cheng Kang Tan , 譚丞岡 Born in Korea 🇰🇷 
 + In <The Tortoise and the Hare> story I'm tortoise now... 🐢     
 ## 🥇Major  :
-+ National Sun Yet-Sen University - Computer Science Engineering  (Bachelor) 👨‍🎓 Graduated on June 😃!
-+ National Cheng kung University - Computer Science Information Engineering (Master) ~ing 🖥️
++ National Sun Yet-Sen University - Computer Science Engineering  (Bachelor) 👨‍🎓 Graduated on 2024 June 😃!
++ National Cheng kung University - Computer Science Information Engineering (Master) 👨‍🎓 Graduated on 2025 July 😃! 🖥️
++ Micron – Data Engineer Internship (2-month Summer Internship, July 2024 – August 2024) 💻
++ TSMC – Intelligence Manufacturing Engineer (Now) 🏭
 ## 🔠Programming Language :
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++ language Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
